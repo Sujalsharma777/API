@@ -121,46 +121,6 @@
       "description": "The money plant, scientifically known as Epipremnum aureum, is a popular evergreen vine with heart-shaped, glossy green leaves, often grown as a houseplant for its ease of care and symbolic connection to wealth and prosperity",
       "Care": "This indoor earthling is shade tolerant, although it prefers moderate to bright indirect light. In light of this, the best light level for this plant often occurs in an east- or west-facing window",
       "productLink": "Money-Plant"
-    },
-    {
-      "id": 10,
-      "stock": 5,
-      "name": "Mostera plant",
-      "price": 1100,
-      "Discount": 40,
-      "plantType": "indoor",
-      "productType": "plant",
-      "image": "https://unsplash.com/photos/green-plant-on-white-ceramic-pot-bwsTJMnhcwE",
-      "description": "Monstera plants, commonly known as Swiss cheese plants or split-leaf philodendrons, are climbing, evergreen perennials with large, glossy, dark green leaves that develop unique splits and holes, giving them their distinctive appearance. ",
-      "Care": "Monstera plants, commonly known as Swiss cheese plants or split-leaf philodendrons, are climbing, evergreen perennials with large, glossy, dark green leaves that develop unique splits and holes, giving them their distinctive appearance. ",
-      "productLink": "Monstera-plant"
-    },
-    {
-      "id": 11,
-      "stock": 5,
-      "name": "Monstera Peru plant",
-      "price": 499,
-      "Discount": 10,
-      "plantType": "indoor",
-      "productType": "plant",
-      "image": "https://unsplash.com/photos/a-green-and-white-plant-sitting-on-top-of-a-table-NicHoXksB9Q",
-      "description": "Monstera Peru, scientifically known as Monstera karstenianum, is a rare, tropical, and low-maintenance houseplant characterized by its textured, thick, and glossy, deep green leaves, which are often described as having a puckered or corrugated appearance, unlike the fenestrated leaves of other monstera varieties.  ",
-      "Care": "To care for a Monstera Peru (Monstera karstenianum), provide bright, indirect light, use well-draining soil, water when the top inch of soil is dry, maintain high humidity (60-80%), and fertilize during the growing season. ",
-      "productLink": "Monstera-Peru-plant",
-      "latestArrived": "true"
-    },
-    {
-      "id": 12,
-      "stock": 5,
-      "name": "poinsettia plant",
-      "price": 259,
-      "Discount": 10,
-      "plantType": "outdoor",
-      "productType": "plant",
-      "image": "https://unsplash.com/photos/red-flowers-with-green-leaves-b0xENoQfBDM",
-      "description": "The poinsettia (Euphorbia pulcherrima) is a shrubby perennial, native to Mexico, known for its vibrant, red, pink, or white bracts (modified leaves) that are often mistaken for petals, and it is a popular Christmas decoration",
-      "Care": "Outdoor light: Part sun, 4 to 6 hours daily. Temperature: Indoor temperatures of 65 to 70 degrees F are ideal. Avoid placing poinsettias where the temperature fluctuates or may be drying, such as near cold drafts, heat ducts, fireplaces, fans, space heaters, etc",
-      "productLink": "poinsettia-plant"
     }
   ]
 }
